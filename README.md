@@ -49,7 +49,6 @@ project2_research_assistant_v2/
 ├── main.py                     # CLI entry point
 ├── streamlit_app.py            # Streamlit web UI
 ├── test_real_papers.py         # Test script for paper search APIs
-├── PIPELINE_EXPLAINED.md       # Detailed pipeline walkthrough
 └── requirements.txt
 ```
 
@@ -142,3 +141,4 @@ Runs test queries against Semantic Scholar and arXiv to verify the APIs are work
 
 ---
 Built for Lab 4 - AI-Based Applications course.
+
